@@ -1,0 +1,8 @@
+{
+	"name" : "Sankey Diagram",
+	"description" : "Sankey Diagram from Google",
+	"preview": "bar",
+	"type" : "visualization",
+	"version": "1.0",
+	"author": "hmt"
+}
