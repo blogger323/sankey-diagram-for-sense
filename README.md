@@ -5,7 +5,7 @@ An extension for Qlik Sense to use Sankey Diagram in Google Charts
 
 ##Usage
 - Set 2 dimensions and 1 measure.
-- Uncheck ‘Show null value’ in dimension settings.
+- Uncheck 'Show null value' in dimension settings.
 
 ##Limitation
 - Limited to 250 relationships.
